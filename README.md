@@ -23,4 +23,4 @@ The current simulation is qualitatively consistent with the paper's result, capt
 *Figure 3b from the paper*
 ## How to Run 
 1. Ensure you have Numpy and QuTip installed.
-2. Run the main reproduction script. 
+2. Run the main reproduction script: https://github.com/UguumuRR/Quantum-state-design-WIP/blob/main/Fig3b_Final_Model.ipynb
