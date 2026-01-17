@@ -17,7 +17,7 @@ Skeleton:
 I worked on this project during the summer before my junior year. At the time, with a background in introductory Quantum Mechanics, much of the many-body machinery was black-boxed and reverse-engineered. Since this project was a significant learning milestone, I also included my working notes to document my thought process and progress. 
 ## Current Status 
 The current simulation is qualitatively consistent with the paper's result, capturing the characteristic decay towards the Haar-random ensemble. However, the quantitative values do not yet match the theoretical predictions. For example, the spike at N_b = 7 suggests that a thorough investigation is needed. To conduct this investigation, I am currently taking a course on Quantum Many-Body Physics. 
-![My current reproduced result](jb-image:img_1768644143725_82d19deacf658) 
+https://github.com/UguumuRR/Quantum-state-design-WIP/issues/1
 *My current reproduced result*
 ![Figure 3b from the paper](jb-image:img_1768644191945_365d00239f78a8)
 *Figure 3b from the paper*
