@@ -14,7 +14,7 @@ Skeleton:
 -  The comparison between the Haar random ensemble and the projected ensemble is captured by the trace distance between them.
 -  As the projected subsystem size increases, the projected ensemble becomes more similar to a random Haar ensemble. 
 ## Implementation Journey 
-I worked on this project during the summer before my junior year. At the time, with a background in introductory Quantum Mechanics, much of the many-body machinery was black-boxed and reverse-engineered. Since this project was a significant learning milestone, I also included my working notes to document my thought process and progress. 
+I worked on this project during the summer before my junior year. At the time, with a background in introductory Quantum Mechanics, much of the many-body machinery was black-boxed and reverse-engineered while the coding was AI-assisted. Since this project was a significant learning milestone, I also included my working notes to document my thought process and progress. 
 ## Current Status 
 The current simulation is qualitatively consistent with the paper's result, capturing the characteristic decay towards the Haar-random ensemble. However, the quantitative values do not yet match the theoretical predictions. For example, the spike at $N_b = 7$ suggests that a thorough investigation is needed. To conduct this investigation, I am currently taking a course on Quantum Many-Body Physics. 
 
